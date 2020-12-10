@@ -1,0 +1,7 @@
+primero, creen la base de datos con nombre, uhotel, despues importen el archivo sql que les dejare aca, tambien 
+deben buscar informacion acerca de como aumentar el limite de archivos que les permite apache subir,
+como se van a manipular imagenes y si mal no recuerdo el el limite es 2mb y hay fotos mas pesadas que ese limite
+asi que busquen en internet, solo deben cambiar unas lineas de codifo en el php.ini, pero no recuerdo 
+cuales, arriba de 20mb esta bien, despues de esos cambios reinicien apache si es que estaba running you know, then...
+a simon las credenciales son, usuario: admin.hostal contra: adminHostal.vst2019, si algo fallan me avisan o arreglenlo
+ustedes. bye, fin del comunicado, adios, me voy, salu!
